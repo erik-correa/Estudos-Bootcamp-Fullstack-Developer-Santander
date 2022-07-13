@@ -1,2 +1,2 @@
-# Estudos-Bootcamp-Fullstack-Developer-Santander
+# Estudo-Bootcamp-Fullstack-Developer-Santander
 Materiais e Anotações
